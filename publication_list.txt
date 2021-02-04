@@ -1,0 +1,640 @@
+# LINK (DOI)
+# TITLE
+# AUTHORS
+# JOURNAL
+# VOLUME
+# YEAR
+# PAGES (ARTICLE NO)
+# If some information (link for example), write '--' in the respective field.
+
+https://doi.org/10.1016/j.cma.2020.113639
+Morley finite element methods for the stationary quasi-geostrophic equation
+Dohyun Kim, Amiya Kumar Pani, Eun-Jae Park
+Comput. Methods Appl. Mech. Engrg.
+372
+2021
+113639
+
+https://doi.org/10.1007/s10915-020-01287-w
+Convergence of multi-level algorithms for a class of nonlinear problems
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+J. Sci. Comput.
+84
+2020
+34
+
+https://doi.org/10.1137/20M1322170
+Staggered DG methods for the pseudostress-velocity formulation of the Stokes equations on general meshes
+Dohyun Kim, Lina Zhao, Eun-Jae Park
+SIAM J. Sci. Comput.
+42
+2020
+pp. A2537-A2560
+
+https://doi.org/10.1137/19M1278016
+A staggered cell-centered DG method for linear elasticity on polygonal meshes
+Lina Zhao, Eun-Jae Park
+SIAM J. Sci. Comput.
+42
+2020
+pp. A2158-A2181
+
+https://doi.org/10.1093/imanum/drz048
+A lowest-order staggered DG method for the coupled Stokes-Darcy problem
+Lina Zhao, Eun-Jae Park
+IMA J. Numer. Anal.
+40
+2020
+pp. 2871-2897
+
+https://doi.org/10.1016/j.amc.2019.124932
+Multiscale mortar expanded mixed discretization of nonlinear elliptic problems
+Muhammad Arshad, Eun-Jae Park
+Appl. Math. Comput.
+371
+2020
+124932
+
+https://doi.org/10.1016/j.cma.2019.112661
+A Nitsche-type variational formulation for the shape deformation of a single component vesicle
+Tae-Yeon Kim, Wen Jiang, Sungmun Lee, Jeong-Hoon Song, Chan Yeob Yeun, Eun-Jae Park
+Comput. Methods Appl. Mech. Engrg.
+359
+2020
+112661
+
+https://doi.org/10.1007/s10915-019-01119-6
+A new hybrid staggered discontinuous Galerkin method on general meshes
+Lina Zhao, Eun-Jae Park
+J. Sci. Comput.
+82
+2020
+12
+
+https://doi.org/10.12941/jksiam.2020.24.215
+A local conservative multiscale method for elliptic problems with oscillating coefficients
+Youngmok Jeon, Eun-Jae Park
+J. KSIAM
+24
+2020
+pp. 215-227
+
+https://doi.org/10.1016/j.cma.2018.11.016
+A staggered DG method of minimal dimension for the Stokes equations on general meshes
+Lina Zhao, Eun-Jae Park, Dong-wook Shin
+Comput. Methods Appl. Mech. Engrg.
+345
+2019
+pp. 854-875
+
+https://doi.org/10.1016/j.cam.2018.06.040
+A priori and a posteriori error analysis of a staggered discontinuous Galerkin method for convection dominant diffusion equations
+Lina Zhao, Eun-Jae Park
+J. Comput. Appl. Math.
+346
+2019
+pp. 63-83
+
+https://doi.org/10.1007/s10092-018-0287-y
+A unified framework for two-grid methods for a class of nonlinear problems
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+Calcolo
+55
+2018
+45
+
+https://doi.org/10.1016/j.amc.2018.07.043
+C<sup>0</sup> interior penalty methods for a dynamic nonlinear beam model
+Jeongho Ahn, Seulip Lee, Eun-Jae Park
+Appl. Math. Comput.
+339
+2018
+pp. 685-700
+
+https://doi.org/10.1137/17M1159385
+A staggered discontinuous Galerkin method of minimal dimension on quadrilateral and polygonal meshes
+Lina Zhao, Eun-Jae Park
+SIAM J. Sci. Comput.
+40
+2018
+pp. A2543-A2567
+
+https://doi.org/10.1016/j.camwa.2018.03.018
+Fully computable bounds for a staggered discontinuous Galerkin method for the Stokes equations
+Lina Zhao, Eun-Jae Park
+Comput. Math. Appl.
+75
+2018
+pp. 4115-4134
+
+https://doi.org/10.1016/j.cma.2018.02.009
+Error estimates of B-spline based finite-element methods for the stationary quasi-geostrophic equations of the ocean
+Dohyun Kim, Tae-Yeon Kim, Eun-Jae Park, Dong-wook Shin
+Comput. Methods Appl. Mech. Engrg
+335
+2018
+pp. 255-272
+
+https://doi.org/10.1007/s10915-017-0575-8
+Guaranteed a posteriori error estimates for a staggered discontinuous Galerkin method
+Eric T Chung, Eun-Jae Park, Lina Zhao
+J. Sci. Comput.
+75
+2018
+pp. 1079-1101
+
+https://doi.org/10.1016/j.aml.2017.10.017
+Optimal error estimates for the pseudostress formulation of the Navier-Stokes equations
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+Appl. Math. Lett.
+78
+2018
+pp. 24-30
+
+https://doi.org/10.1016/j.camwa.2017.09.031
+Analysis of multiscale mortar mixed app.roximation of nonlinear elliptic equations
+Muhammad Arshad, Eun-Jae Park, Dong-wook Shin
+Comput. Math. Appl.
+75
+2018
+pp. 401-418
+
+https://doi.org/10.1016/j.cma.2017.08.034
+C<sup>0</sup>-discontinuous Galerkin methods for a wind-driven ocean circulation model: Two-grid algorithm
+Dong-wook Shin, Younghun Kang, Eun-Jae Park
+Comput. Methods Appl. Mech. Engrg.
+328
+2018
+pp. 321-339
+
+https://doi.org/10.1007/s10915-017-0514-8
+Space-time adaptive methods for the mixed formulation of a linear parabolic problem
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+J. Sci. Comput.
+74
+2018
+pp. 1725-1756
+
+https://doi.org/10.1007/s00211-017-0866-x
+Convergence of natural adaptive least squares finite element methods
+Carsten Carstensen, Eun-Jae Park, Philipp. Bringmann
+Numerische Mathematik
+136
+2017
+pp. 1097-1115
+
+https://doi.org/10.1016/j.camwa.2017.02.039
+High-order discontinuous Galerkin methods with Lagrange multiplier for hyperbolic systems of conservation laws
+Mi-Young Kim, Eun-Jae Park, Jaemin Shin
+Comput. Math. Appl.
+73
+2017
+pp. 1945-1974
+
+https://doi.org/10.1515/cmam-2016-0043
+Hybrid spectral difference methods for an elliptic equation
+Youngmok Jeon, Eun-Jae Park, Dong-wook Shin
+Comput. Methods Appl. Math.
+17
+2017
+pp. 253-267
+
+https://doi.org/10.1016/j.cma.2015.11.022
+A C<sup>0</sup>-discontinuous Galerkin method for the stationary quasi-geostrophic equations of the ocean
+Tae-Yeon Kim, Eun-Jae Park, Dong-wook Shin
+Comput. Methods Appl. Mech. Engrg.
+300
+2016
+pp. 225-244
+
+https://doi.org/10.1007/s10957-015-0791-z
+Multigrid optimization methods for the optimal control of convection-diffusion problems with bilinear control
+Alfio Borzi, Eun-Jae Park, Michelle Vallejos Lass
+J. Optim. Theory Appl.
+168
+2016
+pp. 510-533
+
+https://doi.org/10.1016/j.camwa.2015.05.010
+Asymptotically exact a posteriori error estimators for first-order div least-squares methods in local and global norm
+Zhiqiang Cai, Varis Carey, JaEun Ku, Eun-Jae Park
+Comput. Math. Appl.
+70
+2015
+pp. 648-659
+
+https://doi.org/10.1137/130949634
+Convergence and optimality of adaptive least squares finite element methods
+Carsten Carstensen, Eun-Jae Park
+SIAM J. Numer. Anal.
+53
+2015
+pp. 43-62
+
+https://doi.org/10.1016/j.apnum.2014.11.003
+A hybrid discontinuous Galerkin method for advection-diffusion-reaction problems
+Dong-wook Shin, Youngmok Jeon, Eun-Jae Park
+Appl. Numer. Math.
+95
+2015
+pp. 292-303
+
+https://doi.org/10.1080/00036811.2014.931026
+Dynamic frictionless contact of a nonlinear beam with two stops
+Jeongho Ahn, Eun-Jae Park
+Appl. Anal.
+94
+2015
+pp. 1355-137
+
+https://doi.org/10.1016/j.camwa.2014.11.013
+Special issue advances in computational partial differential equations preface
+Carsten Carstensen, Eun-Jae Park
+Comput. Math. Appl.
+68
+2014
+pp. 2149-2150
+
+https://doi.org/10.1016/j.camwa.2014.08.005
+A hybridized finite element method for the Stokes problem
+Youngmok Jeon, Eun-Jae Park, Dongwoo Sheen
+Comput. & Math. Appl.
+68
+2014
+pp. 2222-2232
+
+https://doi.org/10.1016/j.camwa.2014.08.011
+Domain decomposition preconditioning for elliptic problems with jumps in coefficients
+Sungmin Cho, Sergey V Nepomnyaschikh, Eun-Jae Park
+Comput. Math. Appl.
+68
+2014
+pp. 2292-2313
+
+https://doi.org/10.4134/BKMS.2014.51.6.1655
+A nonconforming primal mixed finite element method for the stokes equations
+Sungmin Cho, Eun-Jae Park
+Bull. Korean Math. Soc.
+51
+2014
+pp. 1655-1668
+
+https://doi.org/10.4134/JKMS.2014.51.2.267
+Two-scale product app.roximation for semilinear parabolic problems in mixed methods
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+J. Korean Math. Soc.
+51
+2014
+pp. 267-288
+
+https://doi.org/10.4134/BKMS.2014.51.1.267
+An upstream pseudostress-velocity mixed formulation for the Oseen equations
+Eun-Jae Park, Boyoon Seo
+Bull. Korean Math. Soc.
+51
+2014
+pp. 267-285
+
+https://doi.org/10.1016/j.jcp.2013.01.018
+A flexible numerical app.roach for quantification of epistemic uncertainty
+Xiaoxiao Chen, Eun-Jae Park, Dongbin Xiu
+J. Comput. Phys.
+240
+2013
+pp. 211-224
+
+https://doi.org/10.1090/S0025-5718-2013-02662-2
+Superconvergent discontinuous Galerkin methods for nonlinear elliptic equations
+Sangita Yadav, Amiya Kumar Pani, Eun-Jae Park
+Math. of Comput.
+82
+2013
+pp. 1297-1335
+
+https://doi.org/10.1007/s00211-012-0477-5
+New locally conservative finite element methods on a rectangular mesh
+Youngmok Jeon, Eun-Jae Park
+Numer. Math.
+123
+2013
+pp. 97-119
+
+https://publications.mfo.de/handle/mfo/3280
+Adaptive mixed finite element methods and new hybrid discontinuous Galerkin method
+Eun-Jae Park
+Oberwolfach Reports
+9
+2012
+pp. 476-478
+
+https://doi.org/10.1137/100802906
+Numerical experiments for the Arnold-Winther mixed finite elements for the Stokes problem
+Carsten Carstensen, Joscha Gedicke, Eun-Jae Park
+SIAM J. Sci. Comput.
+34
+2012
+pp. A2267-A2287
+
+https://doi.org/10.1137/100816237
+A priori and a posteriori pseudostress-velocity mixed finite element error analysis for the Stokes problem
+Carsten Carstensen, Dongho Kim, Eun-Jae Park
+SIAM J. Numer. Anal.
+49
+2011
+pp. 2501-2523
+
+https://doi.org/10.1137/090755102
+A hybrid discontinuous Galerkin method for elliptic problems
+Youngmok Jeon, Eun-Jae Park
+SIAM J. Numer. Anal.
+48
+2010
+pp. 1968-1983
+
+https://doi.org/10.1016/j.cam.2010.06.004
+A posteriori error estimators for first-order least-squares finite element method
+JaEun Ku, Eun-Jae Park
+J. Comput. Appl. Math.
+235
+2010
+pp. 293-300
+
+https://doi.org/10.1137/090747002
+A priori and a posteriori analysis of mixed finite element methods for nonlinear elliptic equations
+Dongho Kim, Eun-Jae Park
+SIAM J. Numer. Anal.
+48
+2010
+pp. 1186-1207
+
+https://doi.org/10.12941/jksiam.2010.14.3.189
+Numerical discretization of a population diffusion equation
+Sung-Min Cho, Dong-Ho Kim, Mi-Young Kim, Eun-Jae Park
+J. KSIAM
+14
+2010
+pp. 189-200
+
+--
+Locally conservative multiscale methods for Darcy equations
+Eun-Jae Park
+Oberwolfach Reports
+6
+2009
+pp. 1632-1634
+
+https://doi.org/10.3934/dcdsb.2008.10.873
+Adaptive Crank-Nicolson methods with dynamic finite-element spaces for parabolic problems
+Dongho Kim, Eun-Jae Park
+Discrete Contin. Dyn. Syst.
+10
+2008
+pp. 873-886
+
+https://doi.org/10.1016/j.apnum.2007.02.010
+Nonconforming cell boundary element methods for elliptic problems on triangular mesh
+Youngmok Jeon, Eun-Jae Park
+Appl. Numer. Math.
+58
+2008
+pp. 800-814
+
+https://doi.org/10.1016/j.cma.2007.09.009
+A posteriori error estimators for the upstream weighting mixed methods for convection diffusion problems
+Dongho Kim, Eun-Jae Park
+Comput. Methods Appl. Mech. Engrg.
+197
+2008
+pp. 806-820
+
+https://doi.org/10.14492/hokmj/1272848027
+Cell boundary element methods for elliptic problems
+Youngmok Jeon, Eun-Jae Park
+Hokkaido Math. J.
+36
+2007
+pp. 669-685
+
+https://doi.org/10.4134/JKMS.2007.44.5.1103
+Multiscale mortar mixed finite element method for slightly compressible flows in porous media
+Mi-Young Kim, Eun-Jae Park, Sunil G Thomas, Mary F A Wheeler
+J. Korean Math. Soc.
+44
+2007
+pp. 1103-1119
+
+https://doi.org/10.1002/num.20178
+A posteriori error estimator for expanded mixed hybrid methods
+Dongho Kim, Eun-Jae Park
+Numer. Methods. Partial. Differ. Equ.
+23
+2007
+pp. 330-349
+
+https://doi.org/10.1016/j.camwa.2006.03.006
+Primal mixed finite-element app.roximation of elliptic equations with gradient nonlinearities
+Dongho Kim, Eun-Jae Park
+Comput. Math. Appl.
+51
+2006
+pp. 793-804
+
+https://doi.org/10.3934/cpaa.2006.5.309
+Cell boundary element methods for convection-diffusion equations
+Youngmok Jeon, Eun-Jae Park
+Commun. Pure Appl. Anal.
+5
+2006
+pp. 309-319
+
+https://doi.org/10.1088/0266-5611/21/3/011
+Electrical conductivity imaging using a variational method in B<sub>z</sub>-based MREIT
+Ohin Kwon, Chunjae Park, Eun-Jae Park, Jin Keun Seo, Eung Je Woo
+Inverse Probl.
+21
+2005
+pp. 969-980
+
+https://doi.org/10.1002/num.20047
+A cell boundary element method for elliptic problems
+Youngmok Jeon, Eun-Jae Park, Dongwoo Sheen
+Numer. Methods. Partial. Differ. Equ.
+21
+2005
+pp. 496-511
+
+https://doi.org/10.1002/num.20035
+Mixed finite element methods for generalized Forchheimer flow in porous media
+Eun-Jae Park
+Numer. Methods. Partial. Differ. Equ.
+21
+2005
+pp. 213-228
+
+https://doi.org/10.1007/3-540-26825-1_42
+Preconditioning for heterogeneous problems
+Sergey V Nepomnyaschikh, Eun-Jae Park
+Lect. Notes Comput. Sci. Eng.
+40
+2005
+pp. 415-422
+
+https://doi.org/10.1088/0967-3334/25/1/030
+Static conductivity imaging using variational gradient B<sub>z</sub> algorithm in magnetic resonance electrical impedance tomography
+Chunjae Park, Eun-Jae Park, Eung Je Woo, Ohin Kwon, Jin Keun Seo
+Physiol. Meas.
+25
+2004
+pp. 257-269
+
+--
+An accelerated domain decomposition procedure for nonconforming primal mixed method for elliptic and parabolic problems
+J Park, Eun-Jae Park
+Adv. Comp. The. Pract.
+3
+2004
+pp. 331-340
+
+https://doi.org/10.1007/s00030-002-8124-y
+Global boundedness of the solutions to a Gurtin-MacCamy system
+Mimmo Iannelli, Mi-Young Kim, Eun-Jae Park, Andrea Pugliese
+Nonlinear Differ. Equ. Appl. NoDEA
+9
+2002
+pp. 197-216
+
+https://doi.org/10.1016/S0898-1221(00)85016-6
+Mixed finite element domain decomposition for nonlinear parabolic problems
+Mi-Young Kim, Eun-Jae Park, Jungho Park
+Comput. Math. Appl.
+40
+2000
+pp. 1061-1070
+
+https://doi.org/10.1016/S0898-1221(99)00291-6
+Fully discrete mixed finite element app.roximations for non-Darcy flows in porous media
+Mi-Young Kim, Eun-Jae Park
+Comput. Math. Appl.
+38
+1999
+pp. 113-129
+
+https://doi.org/10.1016/S0362-546X(97)00597-X
+Asymptotic behavior for an SIS epidemic model and its app.roximation
+Mimmo Iannelli, Mi-Young Kim, Eun-Jae Park
+Nonlinear Anal.
+35
+1999
+pp. 797-814
+
+https://www.witpress.com/elibrary/wit-transactions-on-ecology-and-the-environment/24/6377
+Mixed finite-element solution of reaction-diffusion equations using a two-grid method
+Li Wu, Myron B Allen, Eun-Jae Park
+Comput. Methods in Water Resources
+12
+1998
+pp. 217-224
+
+https://doi.org/10.1137/S0036139996301180
+Optimal harvesting for periodic age-dependent population dynamics
+Eun-Jae Park, Mimmo Iannelli, Mi-Young Kim, Sebastian Anita
+SIAM J. Appl. Math.
+58
+1998
+pp. 1648-1666
+
+https://doi.org/10.1016/S0096-3003(97)10164-3
+Characteristic finite element methods for diffusion epidemic models with age-structured populations
+Mi-Young Kim, Eun-Jae Park
+Appl. Math. Comput.
+97
+1998
+pp. 55-70
+
+https://doi.org/10.1016/S0096-3003(96)00222-6
+Splitting methods for the numerical app.roximation of some models of age-structured population dynamics and epidemiology
+Mimmo Iannelli, Mi-Young Kim, Eun-Jae Park
+Appl. Math. Comput.
+87
+1997
+pp. 69-93
+
+https://doi.org/10.1002/(SICI)1098-2426(199601)12:1<41::AID-NUM2>3.0.CO;2-N
+Mixed methods for nonlinear second order elliptic problems in three variables
+Eun-Jae Park
+Numer. Methods. Partial. Differ. Equ.
+12
+1996
+pp. 41-57
+
+https://doi.org/10.1002/num.1690120103
+The p-version of the mixed-finite element method for nonlinear second-order elliptic problems
+Mi-Young Kim, Eun-Jae Park
+Numer. Methods. Partial. Differ. Equ.
+12
+1996
+pp. 1-11
+
+https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=2492706
+A time discretization for mixed app.roximation for generalized Forchheimer flow in porous media
+Eun-Jae Park, Mi-Young Kim
+Z. Angew. Math. Mech.
+76
+1996
+pp. 493-494
+
+https://doi.org/10.1016/0893-9659(95)00106-9
+Some observations on mixed methods for fully nonlinear parabolic problems in divergence form
+Mi-Young Kim, Fabio A Milner, Eun-Jae Park
+Appl. Math. Lett.
+9
+1996
+pp. 75-81
+
+https://doi.org/10.1093/imanum/16.3.399
+Mixed finite-element methods for Hamilton-Jacobi-Bellman-type equations
+Fabio A Milner, Eun-Jae Park
+IMA J. Numer. Anal.
+16
+1996
+pp. 399-412
+
+https://doi.org/10.1016/0898-1221(95)00172-U
+Mixed app.roximation of a population diffusion equation
+Mi-Young Kim, Eun-Jae Park
+Comput. Math. Appl.
+30
+1995
+pp. 23-33
+
+https://doi.org/10.1016/0898-1221(95)00132-I
+An upwind scheme for a nonlinear model in age-structured population dynamics
+Mi-Young Kim, Eun-Jae Park
+Comput. Math. Appl.
+30
+1995
+pp. 5-17
+
+https://doi.org/10.1090/S0025-5718-1995-1303087-3
+A mixed finite element method for a strongly nonlinear second order elliptic problem
+Fabio Milner, Eun-Jae Park
+Math. Comp.
+64
+1995
+pp. 973-988
+
+https://doi.org/10.1002/num.1690110106
+A primal hybrid finite element method for a strongly nonlinear second-order elliptic problem
+Eun-Jae Park
+Numer. Methods. Partial. Differ. Equ.
+11
+1995
+pp. 61-75
+
+https://doi.org/10.1137/0732040
+Mixed finite element methods for nonlinear second-order elliptic problems
+Eun-Jae Park
+SIAM J. Numer. Anal.
+32
+1995
+pp. 865-885

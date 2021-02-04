@@ -1,0 +1,202 @@
+# LINK
+# NAME
+# DATES
+# YEAR
+# LOCATION
+
+https://project.inria.fr/gatipor/events/workshop2020/
+ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
+June 30-July 2
+2021
+INRIA Paris, France
+
+https://www.math.cuhk.edu.hk/conference/dd26/?Conference-Home
+DD XXVI: Internatioanl Conference on Domain Decomposition Methods
+December 7-12
+2020
+The Chinese University of Hong Kong, Hong Kong, China
+
+https://dodo.inm.ras.ru/week/shedule/
+The Week of Applied Mathematics and Mathematical Modelling
+October 6-11
+2019
+Far Eastern Federal University, Vladivostok, Russia
+
+#
+The First Korean Congress on Computational Mechanics (KCCM 2019)
+February 14-15
+2019
+Hanyang University, Seoul, Korea
+
+#
+Oberwolfach workshop on Computational Engineering
+October 21-27
+2018
+Mathematisches Forschungsinstitut Oberwolfach, Germany
+
+#
+Workshop on Non-local Material Models and Concurrent Multiscale Methods, Hausdorff Trimester Program
+April 3-7
+2017
+Bonn, Germany
+
+http://www.ddm.org/dd24/
+DD XXIV: Internatioanl Conference on Domain Decomposition Methods
+February 6-10
+2017
+Svalbard, Norway
+
+http://imacs2016.xmu.edu.cn/index.php/IMACS/index
+IMACS2016 - 20th IMACS WORLD CONGRESS
+December 10-14
+2016
+Xiamen, China
+
+#
+International Conference on Recent Advance in Theoretical and Computational Partial Differential Equations with Applications
+December 5-9
+2016
+Panjab University, Chandigarh, India
+
+#
+The Sixth China-Japan-Korea Joint Conference on Numerical Mathematics
+August 22-26
+2016
+NIMS, Daejeon, Korea
+
+http://www.fields.utoronto.ca/activities/15-16/ICSCA
+10th International Conference on Scientific Computing and Applications, ICSCA 2016
+June 6 - 10
+2016
+the Fields Institute, Toronto, Canada
+
+#
+Oberwolfach workshop on Computational Engineering
+27 September - 3 October
+2015
+Oberwolfach, Germany
+
+http://www.iciam2015.cn/
+ICIAM 2015: The 8th International Congress on Industrial and Applied Mathematics
+Aug 10-14
+2015
+Beijing, China
+
+#
+Oberwolfach workshop on Computational multiscale methods
+June 22-28
+2014
+Oberwolfach, Germany
+
+#
+ICES/USACM Workshop on Minimum Residual and Least Squares Finite Element Methods
+November 4-6
+2013
+UT-Austin, Texas, USA
+
+http://people.brunel.ac.uk/~icsrsss/bicom/mafelap2013
+MAFELAP 2013: THE MATHEMATICS OF FINITE ELEMENTS AND APPLICATIONS 2013
+11 - 14 June 2013
+Brunel University, London, England
+
+http://www.ci2ma.udec.cl/wonapde2013/
+WONAPDE 2013: Fourth Chilean Workshop on Numerical Analysis of Partial Differential Equations
+January 14 - 18
+2013
+University of Concepcion, Concepcion, Chile
+
+#
+International Conference on Computational Methods in Applied Mathematics CMAM-5
+July 30 - August 3
+2012
+Humboldt University of Berlin, Berlin, Germany
+
+http://www6.cityu.edu.hk/rcms/ICAM2012/index.html
+International Conference on Applied Mathematics 2012: Modeling, Analysis, and Computation
+May 28 - June 1
+2012
+City University of Hong Kong, Hong Kong
+
+http://www.mfo.de/
+Oberwolfach workshop on Advanced Computational Engineering
+February 12-18
+2012
+Oberwolfach, Germany
+
+http://events.unitn.it/en/mimmo-bio2011
+MIMMO.BIO: Mathematical Innovative Modelling and Methods Of BIOsciences - On the occasion of Professor Mimmo Iannelli's 65th birthday
+December 19 - 21
+2011
+University of Trento, Trento, Italy
+
+http://www.birs.ca/birspages.php?task=displayevent&event_id=11w2017
+BIRS workshop on Modelling and Simulation
+August 31 - Setpember 4
+2011
+Banff International Research Station, Banff, Alberta, Canada
+
+#
+ICIAM 2011
+July 18-22
+2011
+Vancouver, BC, Canada
+
+http://oishi.info.waseda.ac.jp/~easiam2011/
+EASIAM 2011: The 7th East Asia SIAM Conference
+June 27-29
+2011
+Nishi-Waseda Campus, Waseda University, Japan
+
+#
+International Conference on Mathematical Modelling and Applications to Industrial Problems (MMIP 2011)
+March 28-31
+2011
+Calicut, India
+
+http://www.siam.org/meetings/an10/
+2010 SIAM Annual Meeting (AN10)
+July 12-16
+2010
+Pittsburgh, Pennsylvania, USA
+
+#
+2009 First Joint International Meeting of KMS and AMS
+December 16-20
+2009
+Ewha Womans University, Seoul, Korea
+
+http://owpdb.mfo.de/detail?photo_id=11835
+Oberwolfach workshop on Computational multiscale methods
+June 14-20
+2009
+Oberwolfach, Germany
+
+#
+The thirteenth conference on the Mathematics of Finite Elements and Applications (MAFELAP 2009)
+June 9-12
+2009
+Brunel University, London, England
+
+#
+International conference on Recent Trends in Computational Partial Differential Equations
+December 10-13
+2008
+IIT Bombay, Mumbai, India
+
+#
+The 6th International conference on Scientific Computing and Applications
+June 2-5
+2008
+Pusan, Korea
+
+#
+The 9th U.S. National Congress on Computational Mechanics (USNCCM IX)
+July 23-26
+2007
+San Francisco, USA
+
+#
+International workshop on Computational Methods in Geosciences On the occasion of Professor Jim Douglas, Jr.'s 80th birthday
+July 5-7
+2007
+Xian, Shaanxi, China
