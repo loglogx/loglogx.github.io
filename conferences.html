@@ -109,7 +109,7 @@
     <script>
     parseData = function (){
         $.ajax({
-            url:'organized_conferences.txt',
+            url:'data/organized_conferences.txt',
             success: function (data){
                 var info = data.split('\n\n');
                 var myst = '';
@@ -122,7 +122,7 @@
             }
         });
         $.ajax({
-            url:'invited_talks.txt',
+            url:'data/invited_talks.txt',
             success: function (data){
                 var info = data.split('\n\n');
                 var myst = '';

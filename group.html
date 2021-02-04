@@ -122,7 +122,7 @@
 <script>
 parseData = function (){
     $.ajax({
-        url:'current_phd.txt',
+        url:'data/current_phd.txt',
         success: function (data){
             var info = data.split('\n\n');
             var myst = '';
@@ -143,7 +143,7 @@ parseData = function (){
         }
     });
     $.ajax({
-        url:'current_ms.txt',
+        url:'data/current_ms.txt',
         success: function (data){
             var info = data.split('\n\n');
             var myst = '';
@@ -164,7 +164,7 @@ parseData = function (){
         }
     });
     $.ajax({
-        url:'alumni.txt',
+        url:'data/alumni.txt',
         success: function (data){
             var info = data.split('\n\n');
             var myst = '';
