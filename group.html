@@ -40,68 +40,17 @@
                     <h3>
                         Ph.D. Students
                     </h3>
-                    <ul>
-                        <li>
-                            <strong>Jaemin Shin</strong>
-                            <a href="mailto:shinjja87@gmail.com" class="icon solid fa-envelope"></a>&nbsp;
-                            <!-- <a href="#" class="icon solid fa-home"></a> -->
-                            <br> - Discontinuous Galerkin methods with Lagrange Multiplies for Hyperbolic Conservation Laws
-                        </li>
-                        <li>
-                            <strong>Dohyun Kim</strong>
-                            <a href="mailto:kim92n@yonsei.ac.kr" class="icon solid fa-envelope"></a>&nbsp;
-                            <a href="https://dohyun-cse.github.io" class="icon solid fa-home"></a>
-                            <br> - Staggered Discontinuous Galerkin Methods on Polygonal Meshes
-                            <br> - Nonconforming Methods for Fourth-Order for Elliptic PDEs
-                        </li>
-                        <li>
-                            <strong>Hong Nhung Do</strong>
-                            <a href="mailto:dohongnhung.hus@gmail.com" class="icon solid fa-envelope"></a>&nbsp;
-                            <br> - Staggered Discontinuous Galerkin Methods for Electoro-Magnetic Equations
-                        </li>
+                    <ul id="current_phd">
                     </ul>
                     <h3>
                         M.S. Students
                     </h3>
-                    <ul>
-                        <li>
-                            <strong>Sanghee Lee</strong>
-                            <a href="mailto:flqhs7962@yonsei.ac.kr" class="icon solid fa-envelope"></a>&nbsp;
-                            <br> - Staggered Discontinuous Galerkin Methods for Heterogeneous Diffusion Equations
-                        </li>
+                    <ul id="current_ms">
                     </ul>
                     <h3>
                         Alumni
                     </h3>
-                    <ul>
-                        <li>
-                            <strong>Lina Zhao</strong> (Ph.D. 2018)
-                            <a href="mailto:lzhao@math.cuhk.edu.hk" class="icon solid fa-envelope"></a>
-                            - PostDoc, Chinese University of Hong Kong
-                        </li>
-                        <li>
-                            <strong>Younghun Kang</strong> (M.S. 2016) - Ph.D., Ohio State University (USA)
-                        </li>
-                        <li>
-                            <strong>Shijie Dong</strong> (M.S. 2016) - PostDoc, Fudan University
-                        </li>
-                        <li>
-                            <strong>Dong-wook Shin</strong> (Ph.D. 2015)
-                            <a href="mailto:dwshin@mju.ac.kr" class="icon solid fa-envelope"></a>
-                            - Assistant Professor, Myungji University
-                        </li>
-                        <li>
-                            <strong>Seulip Lee</strong> (M.S., 2015)
-                            <a href="mailto:seulipl@uci.edu" class="icon solid fa-envelope"></a>
-                            <a href="https://sites.uci.edu/seulipl/" class="icon solid fa-home"></a>
-                            - Ph.D., University of California at Irvine
-                        </li>
-                        <li>
-                            <strong>Donsub Rim</strong> (M.S. 2012)
-                            <a href="mailto:dr1653@nyu.edu" class="icon solid fa-envelope"></a>
-                            <a href="https://dohyun-cse.github.io" class="icon solid fa-home"></a>
-                            - PostDoc, Courant Institute
-                        </li>
+                    <ul id="alumni">
                     </ul>
 
                 </section>
@@ -170,4 +119,70 @@
 
 </body>
 
+<script>
+parseData = function (){
+    $.ajax({
+        url:'current_phd.txt',
+        success: function (data){
+            var info = data.split('\n\n');
+            var myst = '';
+            for(var i=1;i<info.length; i++){
+                var person = info[i].split('\n');
+                myst += ('<li><strong>' + person[0] + '</strong>\n');
+                if (person[1] != '#'){
+                    myst += ('<a href="mailto:' + person[1] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
+                }
+                if (person[2] != '#'){
+                    myst += ('<a href="' + person[2] + '" class="icon solid fa-home"></a>\n');
+                }
+                for (var j=3;j<person.length; j++) {
+                    myst += ('<br> - ' + person[j] + '\n');
+                }
+            }
+            document.getElementById("current_phd").innerHTML = myst;
+        }
+    });
+    $.ajax({
+        url:'current_ms.txt',
+        success: function (data){
+            var info = data.split('\n\n');
+            var myst = '';
+            for(var i=1;i<info.length; i++){
+                var person = info[i].split('\n');
+                myst += ('<li><strong>' + person[0] + '</strong>\n');
+                if (person[1] != '#'){
+                    myst += ('<a href="mailto:' + person[1] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
+                }
+                if (person[2] != '#'){
+                    myst += ('<a href="' + person[2] + '" class="icon solid fa-home"></a>\n');
+                }
+                for (var j=3;j<person.length; j++) {
+                    myst += ('<br> - ' + person[j] + '\n');
+                }
+            }
+            document.getElementById("current_ms").innerHTML = myst;
+        }
+    });
+    $.ajax({
+        url:'alumni.txt',
+        success: function (data){
+            var info = data.split('\n\n');
+            var myst = '';
+            for(var i=1;i<info.length; i++){
+                var person = info[i].split('\n');
+                myst += ('<li><strong>' + person[0] + '</strong>\n');
+                if (person[2] != '#'){
+                    myst += ('<a href="mailto:' + person[2] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
+                }
+                if (person[3] != '#'){
+                    myst += ('<a href="' + person[3] + '" class="icon solid fa-home"></a>\n');
+                }
+                myst += ('- ' + person[4] + ' ' + person[5] + '\n');
+            }
+            document.getElementById("alumni").innerHTML = myst;
+        }
+    });
+};
+document.addEventListener("DOMContentLoaded", parseData);
+</script>
 </html>
