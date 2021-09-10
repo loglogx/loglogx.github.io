@@ -14,7 +14,7 @@ https://www.math.cuhk.edu.hk/conference/dd26/?Conference-Home
 MS16: Polygonal Finite Elements, DG, and Related Methods, DD XXVI: Internatioanl Conference on Domain Decomposition Methods
 December 7-12
 2020
-The Chinese Univerof Hong Kong, Hong Kong, China
+The Chinese University of Hong Kong, Hong Kong, China
 
 http://www.kms.or.kr/KMS-DMV/main.html
 Special Session: Advances in Computational PDEs, Joint Meeting of the Korean Mathematical Society and the German Mathematical Society
