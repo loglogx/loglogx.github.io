@@ -3,17 +3,6 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # TOPIC (ONE OR MORE)
 
-Jaemin Shin
-shinjja87@gmail.com
-#
-Discontinuous Galerkin methods with Lagrange Multiplies for Hyperbolic Conservation Laws
-
-Dohyun Kim
-kim92n@yonsei.ac.kr
-https://dohyun-cse.github.io
-Staggered Discontinuous Galerkin Methods on Polygonal Meshes
-Nonconforming Methods for Fourth-Order for Elliptic PDEs
-
 Hong Nhung Do
 dohongnhung.hus@gmail.com
 #
