@@ -5,6 +5,20 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # CURRENT POSITION
 
+Dohyun Kim
+Ph.D.
+2021
+dhkim.cse@gmail.com
+https://dohyun-cse.github.io/
+PostDoc, Hong Kong Centre for Cerebro-Cardiovesicular Health Engineering
+
+Jaemin Shin
+Ph.D.
+2021
+shinjja87@gmail.com
+#
+Senior Researcher, Korea Institute of Atmospheric Prediction Systems
+
 Lina Zhao
 Ph.D.
 2018
