@@ -7,6 +7,94 @@
 # PAGES (ARTICLE NO)
 # If some information (link for example), write '--' in the respective field.
 
+https://doi.org/10.1002/num.22880
+Analysis of hybrid discontinuous Galerkin methods for linearized Navier–Stokes equations
+Dongwook Shin, Youngmok Jeon, Eun-Jae Park
+Numer. Methods Partial Differ. Equ.
+39
+2023
+pp. 304-328
+
+https://doi.org/10.1016/j.camwa.2022.10.019
+A pressure robust staggered discontinuous Galerkin method for the Stokes equations
+Lina Zhao, Eun-Jae Park, Eric Chung
+Comput. Math. Appl.
+128
+2022
+pp. 163-179
+
+https://doi.org/10.1007/s11075-022-01288-w
+Error analysis for the pseudostress formulation of unsteady Stokes problem
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+Numer. Algor.
+91
+2022
+pp. 959-996
+
+https://doi.org/10.1515/cmam-2022-0081
+A staggered discontinuous Galerkin method for quasi-linear second order elliptic problems of nonmonotone type
+Lina Zhao, Eun-Jae Park
+Comput. Methods Appl. Math.
+22
+2022
+pp. 729-750
+
+https://doi.org/10.1016/j.camwa.2022.04.018
+A staggered cell-centered DG method for the biharmonic Steklov problem on polygonal meshes: a priori and a posteriori analysis
+Lina Zhao, Eun-Jae Park, Wonjong Kim
+Comput. Math. Appl.
+117
+2022
+pp. 216-228
+
+https://doi.org/10.1007/s10915-022-01760-8
+Staggered DG method with small edges for Darcy flows in fractured porous media
+Lina Zhao, Dohyun Kim, Eun-Jae Park
+J. Sci. Comput
+90
+2022
+83
+
+https://doi.org/10.1016/j.amc.2021.126702
+A novel hybrid difference method for an elliptic equation
+Dongwook Shin, Youngmok Jeon, Eun-Jae Park
+Appl. Math. Comput.
+415
+2022
+126702
+
+https://doi.org/10.1515/cmam-2020-0114
+Novel Adaptive Hybrid Discontinuous Galerkin Algorithms for Elliptic Problems
+Dongwook Shin, Yoongu Hwang, Eun-Jae Park
+Comput. Methods Appl. Math.
+21
+2021
+pp. 929-951
+
+https://doi.org/10.12941/jksiam.2021.25.066
+REVIEW AND IMPLEMENTATION OF STAGGERED DG METHODS ON POLYGONAL MESHES
+Dohyun Kim, Lina Zhao, Eun-Jae Park
+J KSIAM
+25
+2021
+pp. 66-81
+
+https://doi.org/10.1016/j.camwa.2021.06.009
+Multiscale mortar mixed domain decomposition approximations of nonlinear parabolic equations
+Muhammad Arshad, Eun-Jae Park, Dongwook Shin
+Comput. Math. Appl.
+97
+2021
+pp. 375-385
+
+https://doi.org/10.1137/19M1268525
+Staggered DG Method for Coupling of the Stokes and Darcy--Forchheimer Problems
+Lina Zhao, Eric T. Chung, Eun-Jae Park, Guanyu Zhou
+SIAM J. Numer. Anal.
+59
+2021
+pp. 1-31
+
 https://doi.org/10.1016/j.cma.2020.113639
 Morley finite element methods for the stationary quasi-geostrophic equation
 Dohyun Kim, Amiya Kumar Pani, Eun-Jae Park
