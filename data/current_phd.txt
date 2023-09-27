@@ -3,8 +3,13 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # TOPIC (ONE OR MORE)
 
-Hyunsuk Lee
+Wonjong Kim
+wj1012@yonsei.ac.kr
 #
+A Posteriori Error Estimator of Staggered Discontinuous Galerkin Methods for Linear Elasticity
+
+Hyunsuk Lee
+hsleehenry@yonsei.ac.kr
 #
 #
 
