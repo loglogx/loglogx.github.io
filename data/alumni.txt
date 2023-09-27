@@ -1,30 +1,37 @@
 # NAME
-# DEGRE
+# DEGREE
 # YEAR
 # EMAIL (IF NOT AVAILABLE, PUT #)
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # CURRENT POSITION
 
+Sanghee Lee
+M.S.
+2021
+sanghee@mit.edu
+#
+Ph.D., Massachusetts Institute of Technology
+
 Dohyun Kim
 Ph.D.
 2021
-dhkim.cse@gmail.com
+dohyun_kim@brown.edu
 https://dohyun-cse.github.io/
-PostDoc, Hong Kong Centre for Cerebro-Cardiovesicular Health Engineering
+PostDoc, Brown University
 
 Jaemin Shin
 Ph.D.
 2021
 shinjja87@gmail.com
 #
-Senior Researcher, Korea Institute of Atmospheric Prediction Systems
+Samsung SDS
 
 Lina Zhao
 Ph.D.
 2018
 lzhao@math.cuhk.edu.hk
 #
-PostDoc, Chinese University of Hong Kong
+Assistant Professor, Chinese University of Hong Kong
 
 Younghun Kang
 M.S.
@@ -40,23 +47,23 @@ M.S.
 #
 PostDoc, Fudan University
 
-Dong-wook Shin
+Dongwook Shin
 Ph.D.
 2015
-dwshin@mju.ac.kr
-#
-Assistant Professor, Myungji University
+dws@ajou.ac.kr
+https://dw-shin.github.io/
+Assistant Professor, Ajou University
 
 Seulip Lee
 M.S.
 2015
-seulipl@uci.edu
+seulip.lee@uga.edu
 https://sites.uci.edu/seulipl/
-Ph.D., University of California at Irvine
+Assistant Professor, University of Georgia
 
 Donsub Rim
 M.S.
 2012
-dr1653@nyu.edu
+rim@wustl.edu
 https://dsrim.github.io/
-PostDoc, Courant Institute
+Assistant Professor, Washington University
