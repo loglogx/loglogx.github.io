@@ -4,6 +4,36 @@
 # YEAR
 # LOCATION
 
+https://mox.polimi.it/POEMS2022/
+Polytopal Element Methods in Mathematics and Engineering (POEMS 2022)
+December 12-14
+2022
+Politecnico di Milano, Milan, Italy
+
+https://www.bmu.edu.in/iccpdea2022/
+International Conference on Computational Partial Differential Equations and Applications (ICCPDEA-2022)
+September 06 - 08
+2022
+BML Munjal University, India
+
+https://www.asc.tuwien.ac.at/cmam2022/?id=cmam2020
+Computational Methods in Applied Mathematics (CMAM 2022)
+August 29 - September 2
+2022
+TU Wien, Vienna, Austria
+
+https://project.inria.fr/gatipor/events/workshop2020/
+ERC Workshop 2022: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
+June 8-10
+2022
+INRIA Paris, France
+
+#
+Oberwolfach workshop on Nonstandard Finite Element Methods\
+January 10 - January 16
+2021
+Mathematisches Forschungsinstitut Oberwolfach, Germany
+
 https://project.inria.fr/gatipor/events/workshop2020/
 ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
 June 30-July 2
