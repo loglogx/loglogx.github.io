@@ -3,7 +3,7 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # TOPIC (ONE OR MORE)
 
-Sanghee Lee
-flqhs7962@yonsei.ac.kr
+DoHyeon Kwak
+dhkwak1202@yonsei.ac.kr
 #
-Staggered Discontinuous Galerkin Methods for Heterogeneous Diffusion Equations
+Symplectic Hamiltonian Staggered Discontinuous Galerkin Methods
