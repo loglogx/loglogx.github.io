@@ -11,7 +11,7 @@ Staggered Discontinuous Galerkin Methods
 Hyunsuk Lee
 hsleehenry@yonsei.ac.kr
 #
-#
+Staggered Discontinuous Galerkin Methods 
 
 Hong Nhung Do
 dohongnhung.hus@gmail.com
