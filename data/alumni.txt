@@ -31,7 +31,7 @@ Ph.D.
 2018
 lzhao@math.cuhk.edu.hk
 #
-Assistant Professor, Chinese University of Hong Kong
+Assistant Professor, City University of Hong Kong
 
 Younghun Kang
 M.S.
@@ -66,4 +66,4 @@ M.S.
 2012
 rim@wustl.edu
 https://dsrim.github.io/
-Assistant Professor, Washington University
+Assistant Professor, Washington University in St. Louis
