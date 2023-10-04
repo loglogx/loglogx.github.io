@@ -6,4 +6,4 @@
 DoHyeon Kwak
 dhkwak1202@yonsei.ac.kr
 #
-Symplectic Hamiltonian Staggered Discontinuous Galerkin Methods
+Staggered Discontinuous Galerkin Methods
