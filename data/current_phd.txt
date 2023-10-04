@@ -6,7 +6,7 @@
 Wonjong Kim
 wj1012@yonsei.ac.kr
 #
-A Posteriori Error Estimator of Staggered Discontinuous Galerkin Methods for Linear Elasticity
+Staggered Discontinuous Galerkin Methods 
 
 Hyunsuk Lee
 hsleehenry@yonsei.ac.kr
@@ -16,4 +16,4 @@ hsleehenry@yonsei.ac.kr
 Hong Nhung Do
 dohongnhung.hus@gmail.com
 #
-Staggered Discontinuous Galerkin Methods for Electoro-Magnetic Equations
+Staggered Discontinuous Galerkin Methods 
