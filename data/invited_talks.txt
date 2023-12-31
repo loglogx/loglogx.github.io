@@ -4,6 +4,12 @@
 # YEAR
 # LOCATION
 
+https://www.mfo.de/
+Oberwolfach workshop on Nonstandard Finite Element Methods
+January 10 - January 16
+2021
+Mathematisches Forschungsinstitut Oberwolfach,  Germany
+
 https://project.inria.fr/gatipor/events/workshop2020/
 ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
 June 30-July 2
