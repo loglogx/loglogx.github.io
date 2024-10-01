@@ -7,6 +7,14 @@
 # PAGES (ARTICLE NO)
 # If some information (link for example), write '--' in the respective field.
 
+https://doi.org/10.1093/imanum/drac055
+A locking-free staggered DG method for the Biot system of poroelasticity on general polygonal meshes
+Lina Zhao, Eric Chung, Eun-Jae Park
+IMA Journal of Numerical Analysis
+43 (3)
+2023/9
+pp. 2777-2816
+
 https://doi.org/10.1002/num.22880
 Analysis of hybrid discontinuous Galerkin methods for linearized Navier–Stokes equations
 Dongwook Shin, Youngmok Jeon, Eun-Jae Park
