@@ -15,6 +15,7 @@ IMA Journal of Numerical Analysis
 2023/9
 pp. 2777-2816
 
+
 https://doi.org/10.1002/num.22880
 Analysis of hybrid discontinuous Galerkin methods for linearized Navier–Stokes equations
 Dongwook Shin, Youngmok Jeon, Eun-Jae Park
