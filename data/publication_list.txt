@@ -7,6 +7,22 @@
 # PAGES (ARTICLE NO)
 # If some information (link for example), write '--' in the respective field.
 
+https://doi.org/10.1515/cmam-2023-0088
+Adaptive Multi-level Algorithm for a Class of Nonlinear Problems
+Dongho Kim, Eun Jae Park, Boyoon Seo
+Computational Methods in Applied Mathematics
+24 (3)
+2024/7
+pp. 747-776
+
+https://doi.org/10.3934/mine.2024014
+A locally conservative staggered least squares method on polygonal meshes
+Lina Zhao, Eun-Jae Park
+Mathematics in Engineering
+6 (2)
+2024/3
+pp. 339-362
+
 https://doi.org/10.1093/imanum/drac055
 A locking-free staggered DG method for the Biot system of poroelasticity on general polygonal meshes
 Lina Zhao, Eric Chung, Eun-Jae Park
@@ -14,7 +30,6 @@ IMA Journal of Numerical Analysis
 43 (3)
 2023/9
 pp. 2777-2816
-
 
 https://doi.org/10.1002/num.22880
 Analysis of hybrid discontinuous Galerkin methods for linearized Navier–Stokes equations
