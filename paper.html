@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Papers - E.-J. Park</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+				<div id="main">
+					<div class="inner">
+
+						<!-- Header -->
+						<header id="header">
+							<a href="index.html" class="logo"><strong>Eun-Jae Park</strong>'s website</a>
+							<!-- <ul class="icons">
+								<li><a href="ejpark@yonsei.ac.kr" class="icon solid fa-envelope"><span class="label">Medium</span></a></li>
+							</ul> -->
+						</header>
+
+						<!-- Table -->
+						<section id="journal">
+
+							<header class="major">
+								<h2>Papers</h2>
+							</header>
+
+							<div class="table-wrapper" id="publications">
+							</div>
+						</section>
+
+					</div>
+				</div>
+
+				<!-- Sidebar -->
+				<div id="sidebar">
+					<div class="inner">
+
+						<!-- Search -->
+							<!-- <section id="search" class="alt">
+								<form method="post" action="#">
+									<input type="text" name="query" id="query" placeholder="Search" />
+								</form>
+							</section> -->
+
+						<!-- Menu -->
+							<nav id="menu">
+								<header class="major">
+									<h2>Menu</h2>
+								</header>
+                                <ul>
+                                    <li><a href="index.html">About</a></li>
+                                    <li><a href="research.html">Research</a></li>
+                                    <li><a href="people.html">People</a></li>
+                                    <li><a href="paper.html">Publication</a></li>
+                                    <li><a href="conferences.html">Conference</a></li>
+
+                                    <!-- <li> -->
+                                        <!-- <span class="opener">Publication</span>
+                                        <ul>
+                                            <li><a href="paper.html">Papers</a></li>
+                                            <li><a href="conferences.html">Conference</a></li>
+                                        </ul> -->
+                                    <!-- </li> -->
+
+                                    <!-- <li><a href="publication.html">Publication</a></li> -->
+                                    </li>
+                                </ul>
+							</nav>
+
+						<!-- Section -->
+							<section>
+								<header class="major">
+									<h2>Get in touch</h2>
+								</header>
+								<!-- <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p> -->
+								<ul class="contact">
+									<li class="icon solid fa-envelope"><a href="#">ejpark@yonsei.ac.kr</a></li>
+									<li class="icon solid fa-phone">(+82)2-2123-6127</li>
+									<li class="icon solid fa-home">Room 611, Building 117 (A.S.T.C.),<br>
+										 Yonsei University <br>
+										50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Korea <br />
+									</li>
+								</ul>
+							</section>
+
+						<!-- Footer -->
+						<footer id="footer">
+							<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						</footer>
+
+					</div>
+				</div>
+
+			</div>
+
+			<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+
+	<script>
+		parseData = function (){
+		
+		$.ajax({
+		url:'data/publication_list.txt',
+		success: function (data){
+			var info = data.split('\n\n');
+			var myst = '';
+			for(var i=1;i<info.length; i++){
+				var article = info[i].split('\n');
+				myst += '<div class="box">\n'
+				myst += '<h2 style="margin-bottom: 0.3em ! important;"><a href="'
+				myst += article[0];
+				myst += '" target="blank" rel="noopener noreferrer">';
+				myst += article[1];
+				myst += '</a></h2>\n'
+				myst += (article[2] + '<br>\n');
+				myst += (article[3] + ', Vol. ' + article[4] + ' (' + article[5] + '), ' + article[6] + '\n');
+				myst += '</div>\n'
+			}
+			document.getElementById("publications").innerHTML = myst;
+		
+		}
+		});
+		}
+		document.addEventListener("DOMContentLoaded", parseData);
+	</script>
+</html>
