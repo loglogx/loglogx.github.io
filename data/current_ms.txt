@@ -3,7 +3,12 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # TOPIC (ONE OR MORE)
 
+Yoonsoo Lee
+alvin5193@yonsei.ac.kr
+#
+Staggered Discontinuous Galerkin Methods
+
 DoHyeon Kwak
 dhkwak1202@yonsei.ac.kr
-#
+https://sites.google.com/view/dohyeonkwak
 Staggered Discontinuous Galerkin Methods

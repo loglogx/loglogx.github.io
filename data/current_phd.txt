@@ -16,4 +16,4 @@ Staggered Discontinuous Galerkin Methods
 Hong Nhung Do
 dohongnhung.hus@gmail.com
 #
-Staggered Discontinuous Galerkin Methods 
+Staggered Discontinuous Galerkin Methods
