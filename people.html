@@ -45,6 +45,12 @@
 											<div class="col-6 col-12-small">
 												</ul>
 												<h3>
+													Postdoctoral researcher
+												</h3>
+												<ul id="current_postdoc.txt">													
+												</ul>
+												</ul>
+												<h3>
 													Ph.D. Students
 												</h3>
 												<ul id="current_phd.txt">													
@@ -190,6 +196,27 @@
 
 	<script>
 		parseData = function () {
+			$.ajax({
+				url: 'data/current_postdoc.txt',
+				success: function (data) {
+					var info = data.split('\n\n');
+					var myst = '';
+					for (var i = 1; i < info.length; i++) {
+						var person = info[i].split('\n');
+						myst += ('<li><strong>' + person[0] + '</strong>\n');
+						if (person[1] != '#') {
+							myst += ('<a href="mailto:' + person[1] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
+						}
+						if (person[2] != '#') {
+							myst += ('<a href="' + person[2] + '" class="icon solid fa-home"></a>\n');
+						}
+						for (var j = 3; j < person.length; j++) {
+							myst += ('<br> - ' + person[j] + '\n');
+						}
+					}
+					document.getElementById("current_postdoc.txt").innerHTML = myst;
+				}
+			});
 			$.ajax({
 				url: 'data/current_phd.txt',
 				success: function (data) {
