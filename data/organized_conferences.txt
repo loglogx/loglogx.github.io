@@ -4,48 +4,6 @@
 # YEAR
 # LOCATION
 
-https://www.monash.edu/science/schools/school-of-mathematics/ctac2024
-Computational Techniques and Applications Conference (CTAC2024)
-November 19-22
-2024
-Monash University, Melbourne, Australia
-
-https://www.wccm2024.org/
-16th World Congress on Computational Mechanics (WCCM 2024)
-July 21-26
-2024
-Vancouver Convention Centre, Vancouver, Canada
-
-https://www.iccs-meeting.org/iccs2024/
-24th International Conference on Computational Science (ICCS 2024)
-July 2-4
-2024
-University of Málaga, Málaga, Spain
-
-https://www.minres2024workshop.org/
-Minimum Residual & Least-Squares Finite Element Methods
-June 24-27
-2024
-Basque Center for Applied Mathematics (BCAM), Bilbao, Spain
-
-https://ins.uni-bonn.de/group/gedicke/page/cmam-10
-10th International Conference on Computational Methods in Applied Mathematics (CMAM-10)
-June 10-14
-2024
-University Club Bonn, Bonn, Germany
-
-https://www.tsimf.cn/meeting/detail?id=354
-Advanced Finite Element Methods for Nonlinear PDEs (TSIMF)
-March 4-8
-2024
-Tsinghua University, Sanya, China
-
-https://iciam2023.org/
-10th International Congress on Industrial and Applied Mathematics
-August 20-25
-2023
-Waseda University, Tokyo, Japan
-
 https://icosahom2023.org
 The 14th International Conference on Spectal and High Order Methods (ICOSAHOM 2023)
 August 14-18
