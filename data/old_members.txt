@@ -1,0 +1,69 @@
+# NAME
+# DEGREE
+# YEAR
+# EMAIL (IF NOT AVAILABLE, PUT #)
+# HOMEPAGE (IF NOT AVAILABLE, PUT #)
+# CURRENT POSITION
+
+Sanghee Lee
+M.S.
+2021
+sanghee@mit.edu
+#
+Ph.D., Massachusetts Institute of Technology
+
+Dohyun Kim
+Ph.D.
+2021
+dohyun_kim@brown.edu
+https://dohyun-cse.github.io/
+PostDoc, Brown University
+
+Jaemin Shin
+Ph.D.
+2021
+shinjja87@gmail.com
+#
+Samsung SDS
+
+Lina Zhao
+Ph.D.
+2018
+lzhao@math.cuhk.edu.hk
+#
+Assistant Professor, City University of Hong Kong
+
+Younghun Kang
+M.S.
+2016
+#
+#
+Ph.D., Ohio State University (USA)
+
+Shijie Dong
+M.S.
+2016
+#
+#
+PostDoc, Fudan University
+
+Dongwook Shin
+Ph.D.
+2015
+dws@ajou.ac.kr
+https://dw-shin.github.io/
+Assistant Professor, Ajou University
+
+Seulip Lee
+M.S.
+2015
+seulip.lee@uga.edu
+https://sites.google.com/view/seulipl
+Assistant Professor, University of Georgia
+
+Donsub Rim
+M.S.
+2012
+rim@wustl.edu
+https://dsrim.github.io/
+Assistant Professor, Washington University in St. Louis

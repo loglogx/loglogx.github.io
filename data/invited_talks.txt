@@ -5,7 +5,7 @@
 # LOCATION
 
 https://poems2024.inria.fr/
-POlytopal Element Methods in Mathematics and Engineering (POEMS 2024),
+POlytopal Element Methods in Mathematics and Engineering (POEMS 2024)
 December 3-6
 2024 
 INRIA Paris, France

@@ -8,7 +8,7 @@ wj1012@yonsei.ac.kr
 #
 Staggered Discontinuous Galerkin Methods 
 
-Hyunsuk Lee
+HyunSuk Lee
 hsleehenry@yonsei.ac.kr
 #
 Staggered Discontinuous Galerkin Methods 

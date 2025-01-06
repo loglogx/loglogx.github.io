@@ -89,6 +89,14 @@
 
 										</div>
 
+										<h2 id="content">Old Members</h2>
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<ul id="old_members.txt">	
+											</div>
+
+										</div>
+
 									<hr class="major" />
 
 
@@ -277,6 +285,26 @@
 						myst += ('- ' + person[5] + '\n');
 					}
 					document.getElementById("alumni.txt").innerHTML = myst;
+				}
+			});
+			$.ajax({
+				url: 'data/old_members.txt',
+				success: function (data) {
+					var info = data.split('\n\n');
+					var myst = '';
+					for (var i = 1; i < info.length; i++) {
+						var person = info[i].split('\n');
+						myst += ('<li><strong>' + person[0] + '</strong>\n');
+						myst += (' (' + person[1] + ' ' + person[2] + ') ');
+						if (person[3] != '#') {
+							myst += ('<a href="mailto:' + person[3] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
+						}
+						if (person[4] != '#') {
+							myst += ('<a href="' + person[4] + '" class="icon solid fa-home"></a>\n');
+						}
+						myst += ('- ' + person[5] + '\n');
+					}
+					document.getElementById("old_members.txt").innerHTML = myst;
 				}
 			});
 		};
