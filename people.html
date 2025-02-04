@@ -293,16 +293,30 @@
 					var info = data.split('\n\n');
 					var myst = '';
 					for (var i = 1; i < info.length; i++) {
-						var person = info[i].split('\n');
+						var person = info[i].split('\n').map(item => item.trim()); // 각 줄에서 공백 제거
 						myst += ('<li><strong>' + person[0] + '</strong>\n');
-						myst += (' (' + person[1] + ' ' + person[2] + ') ');
-						if (person[3] != '#') {
+
+						// 학위 및 연도 출력 (연도가 #이면 생략)
+						myst += ' (' + person[1];
+						if (person[2] !== '#') { 
+							myst += ' ' + person[2]; 
+						}
+						myst += ') ';
+
+						// 이메일 추가
+						if (person[3] !== '#' && person[3] !== '') { 
 							myst += ('<a href="mailto:' + person[3] + '" class="icon solid fa-envelope"></a>&nbsp;\n');
 						}
-						if (person[4] != '#') {
+						// 홈페이지 추가
+						if (person[4] !== '#' && person[4] !== '') { 
 							myst += ('<a href="' + person[4] + '" class="icon solid fa-home"></a>\n');
 						}
-						myst += ('- ' + person[5] + '\n');
+						// 현재 직위 추가 (직위가 #이 아닐 경우에만 출력)
+						if (person[5] !== '#' && person[5] !== '') {
+							myst += ('- ' + person[5] + '<br>\n');
+						}
+
+						myst += '</li>\n'; // 리스트 아이템 닫기
 					}
 					document.getElementById("old_members.txt").innerHTML = myst;
 				}
