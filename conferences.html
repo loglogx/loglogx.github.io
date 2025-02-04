@@ -31,6 +31,13 @@
                         <!-- Table -->
                         <section id="journal">
                             <header class="major">
+                                <h2>Plenary Talks</h2>
+                            </header>
+                            <ol id="plenary">
+                                <!-- Data will be loaded here -->
+                            </ol>
+
+                            <header class="major">
                                 <h2>Conferences Organized (selected)</h2>
                             </header>
                             <ol id="organized">
@@ -119,6 +126,26 @@
     <script>
         parseData = function () {
             console.log('Parsing started'); // Debugging message
+
+            // Load and process Plenary Talk
+            $.ajax({
+                url: 'data/plenary_talk.txt',
+                success: function (data) {
+                    console.log('Plenary Talk data loaded successfully'); // Load confirmation
+                    var info = data.split('\n\n'); // Split by newline
+                    var myst = '';
+                    for(var i=1;i<info.length; i++){
+                        var talk = info[i].split('\n');
+                        myst += ('<li><a href="' + talk[0] + '" target="blank" rel="noopener noreferrer">' + talk[1] + '</a>, ');
+                        myst += (talk[2] + ', ' + talk[3] + ', ' + talk[4]);
+                    }
+                    document.getElementById("plenary").innerHTML = myst;
+                },
+                error: function () {
+                    console.error('Failed to load Plenary Talks'); // Error message
+                    document.getElementById("plenary").innerHTML = '<li>Failed to load Plenary Talks.</li>';
+                }
+            });
 
             // Load and process organized conferences
             $.ajax({
