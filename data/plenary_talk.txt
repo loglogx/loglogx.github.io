@@ -1,0 +1,108 @@
+# LINK
+# NAME
+# DATES
+# YEAR
+# LOCATION
+
+https://icosahom2023.org
+The 14th International Conference on Spectal and High Order Methods (ICOSAHOM 2023)
+August 14-18
+2023
+Yonsei University, Seoul, Korea
+
+https://www.math.cuhk.edu.hk/conference/dd26/?Conference-Home
+MS16: Polygonal Finite Elements, DG, and Related Methods, DD XXVI: Internatioanl Conference on Domain Decomposition Methods
+December 7-12
+2020
+The Chinese University of Hong Kong, Hong Kong, China
+
+http://www.kms.or.kr/KMS-DMV/main.html
+Special Session: Advances in Computational PDEs, Joint Meeting of the Korean Mathematical Society and the German Mathematical Society
+October 3-6
+2018
+COEX, Seoul, Korea
+
+https://csedeptyonsei.wixsite.com/iccm2018
+International Conference on Computational Mathematics (ICCM 2018) - Advances in Computational PDEs
+September 29-October 2
+2018
+Yonsei University, Seoul, Korea
+
+#
+Special Session: Numerical modeling and computation, 2018 KMS Spring Meeting
+April 21
+2018
+Kyung Hee University, Seoul, Korea
+
+#
+Special Session: Numerical modeling and computation
+2017 KMS Spring Meeting
+April 29
+2017
+Chosun University, Gwangju, Korea
+
+#
+Minisymposium:Mixed Finite Element and Hybrid Discontinuous Galerkin Methods, 12th World Congress on Computational Mechanics (WCCM XII)
+July 24-29
+2016
+COEX, Seoul, Korea
+
+#
+Minisymposium: Advances in Modeling and Simulation of Population Dynamics and Tumor Growth, 12th World Congress on Computational Mechanics (WCCM XII)
+July 24-29
+2016
+COEX, Seoul, Korea
+
+#
+Special Session: Advances in Finite Element Methods and Related Topics, 2015 KMS Annual Meeting
+October 23-25
+2015
+Yonsei University, Seoul, Korea
+
+http://dd23.kaist.ac.kr/home.html
+DD XXIII: Internatioanl Conference on Domain Decomposition Methods
+July 6-10
+2015
+ICCJEJU, JEJU ISLAND, Korea
+
+http://haeeun.weebly.com/icm2014.html
+International Workshop on Computational Mathematics - Advances in Computational PDEs (ICM 2014 Satellite Conference)
+August 9-12
+2014
+Yonsei University, Seoul, Korea
+
+#
+International Workshop and Tutorial on Computational Mathematics - Advances in Computational PDEs
+March 25-28
+2013
+Yonsei University, Seoul, Korea
+
+http://www.ci2ma.udec.cl/wonapde2013/
+Minisymposium: Mixed Finite Element and Hybridized Discontinuous Galerkin Methods, WONAPDE 2013: Fourth Chilean Workshop on Numerical Analysis of Partial Differential Equations
+January 18
+2013
+University of Concepcion, Concepcion, Chile
+
+http://cse-yonsei.github.io/iccm2012/
+International Conference on Computational Mathematics- Advances in Computational PDEs
+July 11-13
+2012
+Yonsei University, Seoul, Korea
+
+#
+International Workshop on CFD & Computational Mathematics
+September 10-11
+2010
+Yonsei University, Seoul, Korea
+
+#
+International Conference on Computational Mathematics (Com2MaC)
+December 9-12
+2003
+Postech, Pohang, Korea
+
+#
+International Workshop on Analysis and Scientific Computing (19th Daewoo workshop)
+July 19-23
+1999
+Postech, Pohang, Korea
