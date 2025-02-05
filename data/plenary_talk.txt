@@ -4,11 +4,6 @@
 # YEAR
 # LOCATION
 
-https://poems2024.inria.fr/
-POlytopal Element Methods in Mathematics and Engineering (POEMS 2024)
-December 3-6
-2024 
-INRIA Paris, France
 
 https://ins.uni-bonn.de/group/gedicke/page/cmam-10
 10th International Conference on Computational Methods in Applied Mathematics (CMAM-10)
@@ -137,12 +132,6 @@ March 28-31
 2011
 Calicut, India
 
-http://www.siam.org/meetings/an10/
-2010 SIAM Annual Meeting (AN10)
-July 12-16
-2010
-Pittsburgh, Pennsylvania, USA
-
 http://owpdb.mfo.de/detail?photo_id=11835
 Oberwolfach workshop on Computational multiscale methods
 June 14-20
@@ -160,9 +149,3 @@ The 6th International conference on Scientific Computing and Applications
 June 2-5
 2008
 Pusan, Korea
-
-#
-International workshop on Computational Methods in Geosciences On the occasion of Professor Jim Douglas, Jr.'s 80th birthday
-July 5-7
-2007
-Xian, Shaanxi, China
