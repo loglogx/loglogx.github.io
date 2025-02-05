@@ -4,105 +4,165 @@
 # YEAR
 # LOCATION
 
-https://icosahom2023.org
-The 14th International Conference on Spectal and High Order Methods (ICOSAHOM 2023)
-August 14-18
-2023
-Yonsei University, Seoul, Korea
+https://poems2024.inria.fr/
+POlytopal Element Methods in Mathematics and Engineering (POEMS 2024)
+December 3-6
+2024 
+INRIA Paris, France
 
-https://www.math.cuhk.edu.hk/conference/dd26/?Conference-Home
-MS16: Polygonal Finite Elements, DG, and Related Methods, DD XXVI: Internatioanl Conference on Domain Decomposition Methods
-December 7-12
-2020
-The Chinese University of Hong Kong, Hong Kong, China
+https://ins.uni-bonn.de/group/gedicke/page/cmam-10
+10th International Conference on Computational Methods in Applied Mathematics (CMAM-10)
+June 10-14
+2024
+University Club Bonn, Bonn, Germany
 
-http://www.kms.or.kr/KMS-DMV/main.html
-Special Session: Advances in Computational PDEs, Joint Meeting of the Korean Mathematical Society and the German Mathematical Society
-October 3-6
-2018
-COEX, Seoul, Korea
+https://www.tsimf.cn/meeting/detail?id=354
+Advanced Finite Element Methods for Nonlinear PDEs
+March 4-8
+2024
+TSIMF Tsinghua University, Sanya, China
 
-https://csedeptyonsei.wixsite.com/iccm2018
-International Conference on Computational Mathematics (ICCM 2018) - Advances in Computational PDEs
-September 29-October 2
-2018
-Yonsei University, Seoul, Korea
+https://www.mfo.de/
+Oberwolfach workshop on Nonstandard Finite Element Methods
+January 10 - January 16
+2021
+Mathematisches Forschungsinstitut Oberwolfach,  Germany
+
+https://project.inria.fr/gatipor/events/workshop2020/
+ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
+June 30-July 2
+2021
+INRIA Paris, France
+
+
+https://dodo.inm.ras.ru/week/shedule/
+The Week of Applied Mathematics and Mathematical Modelling
+October 6-11
+2019
+Far Eastern Federal University, Vladivostok, Russia
 
 #
-Special Session: Numerical modeling and computation, 2018 KMS Spring Meeting
-April 21
-2018
-Kyung Hee University, Seoul, Korea
+The First Korean Congress on Computational Mechanics (KCCM 2019)
+February 14-15
+2019
+Hanyang University, Seoul, Korea
 
 #
-Special Session: Numerical modeling and computation
-2017 KMS Spring Meeting
-April 29
+Oberwolfach workshop on Computational Engineering
+October 21-27
+2018
+Mathematisches Forschungsinstitut Oberwolfach, Germany
+
+#
+Workshop on Non-local Material Models and Concurrent Multiscale Methods, Hausdorff Trimester Program
+April 3-7
 2017
-Chosun University, Gwangju, Korea
+Bonn, Germany
 
 #
-Minisymposium:Mixed Finite Element and Hybrid Discontinuous Galerkin Methods, 12th World Congress on Computational Mechanics (WCCM XII)
-July 24-29
+International Conference on Recent Advance in Theoretical and Computational Partial Differential Equations with Applications
+December 5-9
 2016
-COEX, Seoul, Korea
+Panjab University, Chandigarh, India
 
 #
-Minisymposium: Advances in Modeling and Simulation of Population Dynamics and Tumor Growth, 12th World Congress on Computational Mechanics (WCCM XII)
-July 24-29
+The Sixth China-Japan-Korea Joint Conference on Numerical Mathematics
+August 22-26
 2016
-COEX, Seoul, Korea
+NIMS, Daejeon, Korea
 
 #
-Special Session: Advances in Finite Element Methods and Related Topics, 2015 KMS Annual Meeting
-October 23-25
+Oberwolfach workshop on Computational Engineering
+27 September - 3 October
 2015
-Yonsei University, Seoul, Korea
+Oberwolfach, Germany
 
-http://dd23.kaist.ac.kr/home.html
-DD XXIII: Internatioanl Conference on Domain Decomposition Methods
-July 6-10
+http://www.iciam2015.cn/
+ICIAM 2015: The 8th International Congress on Industrial and Applied Mathematics
+Aug 10-14
 2015
-ICCJEJU, JEJU ISLAND, Korea
+Beijing, China
 
-http://haeeun.weebly.com/icm2014.html
-International Workshop on Computational Mathematics - Advances in Computational PDEs (ICM 2014 Satellite Conference)
-August 9-12
+#
+Oberwolfach workshop on Computational multiscale methods
+June 22-28
 2014
-Yonsei University, Seoul, Korea
+Oberwolfach, Germany
 
 #
-International Workshop and Tutorial on Computational Mathematics - Advances in Computational PDEs
-March 25-28
+ICES/USACM Workshop on Minimum Residual and Least Squares Finite Element Methods
+November 4-6
 2013
-Yonsei University, Seoul, Korea
+UT-Austin, Texas, USA
 
 http://www.ci2ma.udec.cl/wonapde2013/
-Minisymposium: Mixed Finite Element and Hybridized Discontinuous Galerkin Methods, WONAPDE 2013: Fourth Chilean Workshop on Numerical Analysis of Partial Differential Equations
-January 18
+WONAPDE 2013: Fourth Chilean Workshop on Numerical Analysis of Partial Differential Equations
+January 14 - 18
 2013
 University of Concepcion, Concepcion, Chile
 
-http://cse-yonsei.github.io/iccm2012/
-International Conference on Computational Mathematics- Advances in Computational PDEs
-July 11-13
+#
+International Conference on Computational Methods in Applied Mathematics CMAM-5
+July 30 - August 3
 2012
-Yonsei University, Seoul, Korea
+Humboldt University of Berlin, Berlin, Germany
+
+http://www.mfo.de/
+Oberwolfach workshop on Advanced Computational Engineering
+February 12-18
+2012
+Oberwolfach, Germany
+
+http://events.unitn.it/en/mimmo-bio2011
+MIMMO.BIO: Mathematical Innovative Modelling and Methods Of BIOsciences - On the occasion of Professor Mimmo Iannelli's 65th birthday
+December 19 - 21
+2011
+University of Trento, Trento, Italy
+
+http://www.birs.ca/birspages.php?task=displayevent&event_id=11w2017
+BIRS workshop on Modelling and Simulation
+August 31 - Setpember 4
+2011
+Banff International Research Station, Banff, Alberta, Canada
+
+http://oishi.info.waseda.ac.jp/~easiam2011/
+EASIAM 2011: The 7th East Asia SIAM Conference
+June 27-29
+2011
+Nishi-Waseda Campus, Waseda University, Japan
 
 #
-International Workshop on CFD & Computational Mathematics
-September 10-11
+International Conference on Mathematical Modelling and Applications to Industrial Problems (MMIP 2011)
+March 28-31
+2011
+Calicut, India
+
+http://www.siam.org/meetings/an10/
+2010 SIAM Annual Meeting (AN10)
+July 12-16
 2010
-Yonsei University, Seoul, Korea
+Pittsburgh, Pennsylvania, USA
+
+http://owpdb.mfo.de/detail?photo_id=11835
+Oberwolfach workshop on Computational multiscale methods
+June 14-20
+2009
+Oberwolfach, Germany
 
 #
-International Conference on Computational Mathematics (Com2MaC)
-December 9-12
-2003
-Postech, Pohang, Korea
+International conference on Recent Trends in Computational Partial Differential Equations
+December 10-13
+2008
+IIT Bombay, Mumbai, India
 
 #
-International Workshop on Analysis and Scientific Computing (19th Daewoo workshop)
-July 19-23
-1999
-Postech, Pohang, Korea
+The 6th International conference on Scientific Computing and Applications
+June 2-5
+2008
+Pusan, Korea
+
+#
+International workshop on Computational Methods in Geosciences On the occasion of Professor Jim Douglas, Jr.'s 80th birthday
+July 5-7
+2007
+Xian, Shaanxi, China
