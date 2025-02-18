@@ -58,6 +58,12 @@ January 10 - January 16
 2021
 Mathematisches Forschungsinstitut Oberwolfach,  Germany
 
+https://mox.polimi.it/POEMS2022/
+Polytopal Element Methods in Mathematics and Engineering (POEMS 2022)
+December 12-14
+2022
+Politecnico di Milano, Milan, Italy
+
 https://project.inria.fr/gatipor/events/workshop2020/
 ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
 June 30-July 2
