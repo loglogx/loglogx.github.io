@@ -4,6 +4,12 @@
 # YEAR
 # LOCATION
 
+https://poems2024.inria.fr/
+POlytopal Element Methods in Mathematics and Engineering (POEMS 2024)
+December 3-6
+2024 
+INRIA Paris, France
+
 https://ins.uni-bonn.de/group/gedicke/page/cmam-10
 10th International Conference on Computational Methods in Applied Mathematics (CMAM-10)
 June 10-14
