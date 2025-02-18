@@ -4,7 +4,6 @@
 # YEAR
 # LOCATION
 
-
 https://ins.uni-bonn.de/group/gedicke/page/cmam-10
 10th International Conference on Computational Methods in Applied Mathematics (CMAM-10)
 June 10-14
@@ -71,12 +70,6 @@ Oberwolfach workshop on Computational Engineering
 27 September - 3 October
 2015
 Oberwolfach, Germany
-
-http://www.iciam2015.cn/
-ICIAM 2015: The 8th International Congress on Industrial and Applied Mathematics
-Aug 10-14
-2015
-Beijing, China
 
 #
 Oberwolfach workshop on Computational multiscale methods
