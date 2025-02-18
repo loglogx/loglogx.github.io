@@ -22,17 +22,23 @@ September 6-8
 2022
 BML Munjal University, India
 
+https://www.tuwien.at/en/mg/asc/event/cmam2022#:~:text=It%20will%20take%20place%20from,a%20fully%20in%2Dperson%20event.
+9th Computational Methods in Applied Mathematics (CMAM 2022) 
+August 29 - September 2
+2022
+TU Wien, Austria
+
+https://project.inria.fr/gatipor/events/workshop2020/
+ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
+June 8-10
+2022
+INRIA Paris, France
+
 https://www.mfo.de/
 Oberwolfach workshop on Nonstandard Finite Element Methods
 January 10 - January 16
 2021
 Mathematisches Forschungsinstitut Oberwolfach,  Germany
-
-https://project.inria.fr/gatipor/events/workshop2020/
-ERC Workshop 2020: Interplay of discretization and algebraic solvers: a posteriori error estimates and adaptivity
-June 30-July 2
-2021
-INRIA Paris, France
 
 https://dodo.inm.ras.ru/week/shedule/
 The Week of Applied Mathematics and Mathematical Modelling
