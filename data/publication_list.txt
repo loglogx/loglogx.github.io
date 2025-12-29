@@ -7,6 +7,46 @@
 # PAGES (ARTICLE NO)
 # If some information (link for example), write '--' in the respective field.
 
+https://doi.org/10.1007/s10915-025-03129-z
+A parameter-robust Crouzeix–Raviart finite element method for the Brinkman model
+Eun-Jae Park, Hyeokjoo Park
+Journal of Scientific Computing
+105 (3)
+2025/12
+96
+
+https://doi.org/10.1016/j.cnsns.2025.109490
+On the application of domain decomposition and multiscale approximation for second-order hyperbolic equations
+Rukhsana Jabeen, Muhammad Arshad, Eun-Jae Park
+Communications in Nonlinear Science and Numerical Simulation
+153
+2025/11
+109490
+
+https://doi.org/10.1142/S0218202525500344
+On the connection between the stabilization-free polygonal element and staggered discontinuous Galerkin methods
+Hyeokjoo Park, Eun Jae Park
+Mathematical Models and Methods in Applied Sciences
+35 (10)
+2025/9
+pp. 2099-2128
+
+https://doi.org/10.48550/arXiv.2410.23865
+A primal staggered discontinuous Galerkin method on polytopal meshes
+Long Chen, Xuehai Huang, Eun-Jae Park, Ruishu Wang
+Journal of Scientific Computing
+104 (3)
+2025/9
+89
+
+https://doi.org/10.1051/m2an/2025040
+Finite element approximation to the non-stationary quasi-geostrophic equation
+Dohyun Kim, Amiya Kumar Pani, Eun-Jae Park
+ESAIM: Mathematical Modelling and Numerical Analysis
+59 (4)
+2025/5
+pp. 1973-2003
+
 https://doi.org/10.1515/cmam-2023-0088
 Adaptive Multi-level Algorithm for a Class of Nonlinear Problems
 Dongho Kim, Eun Jae Park, Boyoon Seo
