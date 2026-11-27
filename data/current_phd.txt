@@ -3,17 +3,22 @@
 # HOMEPAGE (IF NOT AVAILABLE, PUT #)
 # TOPIC (ONE OR MORE)
 
+Hong Nhung Do
+dohongnhung.hus@gmail.com
+#
+Staggered Discontinuous Galerkin Methods
+
 Wonjong Kim
 wj1012@yonsei.ac.kr
 #
 Staggered Discontinuous Galerkin Methods 
 
-HyunSuk Lee
+Hyunsuk Lee
 hsleehenry@yonsei.ac.kr
 #
-Staggered Discontinuous Galerkin Methods 
+Finite element methods for time-dependent PDEs, Neural network
 
-Hong Nhung Do
-dohongnhung.hus@gmail.com
+Yoonsoo Lee
+yoonsoolee@yonsei.ac.kr
 #
-Staggered Discontinuous Galerkin Methods
+Staggered Discontinuous Galerkin Methods, A posteriori error estimates and adpativity

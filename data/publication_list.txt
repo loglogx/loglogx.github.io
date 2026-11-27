@@ -7,6 +7,28 @@
 # PAGES (ARTICLE NO)
 # If some information (link for example), write '--' in the respective field.
 
+https://doi.org/10.1016/j.cma.2026.119510
+ANIMALS: Adaptive multilevel inexact Newton methods with smoothing for semilinear problems
+Carsten Carstensen, Dongho Kim, Eun-Jae Park, Boyoon Seo
+Computer Methods in Applied Mechanics and Engineering
+464 (B)
+2027/2
+119510
+
+https://doi.org/10.1007/s10915-026-03460-z
+Pressure-Robust Staggered DG Methods for the Navier–Stokes Equations on General Meshes
+Dohyun Kim, Lina Zhao, Eric Chung, Eun-Jae Park
+Journal of Scientific Computing 
+109 (2)
+2026/11 
+45
+
+https://doi.org/10.1515/jnma-2025-0048
+Space-time adaptive methods for the pseudostress formulation of the Stokes problem
+Dongho Kim, Eun-Jae Park, Boyoon Seo
+Journal of Numerical Mathematics
+2026/5
+
 https://doi.org/10.1007/s10915-025-03129-z
 A parameter-robust Crouzeix–Raviart finite element method for the Brinkman model
 Eun-Jae Park, Hyeokjoo Park

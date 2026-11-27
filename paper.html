@@ -114,30 +114,62 @@
 	</body>
 
 	<script>
-		parseData = function (){
-		
-		$.ajax({
-		url:'data/publication_list.txt',
-		success: function (data){
-			var info = data.split('\n\n');
-			var myst = '';
-			for(var i=1;i<info.length; i++){
-				var article = info[i].split('\n');
-				myst += '<div class="box">\n'
-				myst += '<h2 style="margin-bottom: 0.3em ! important;"><a href="'
-				myst += article[0];
-				myst += '" target="blank" rel="noopener noreferrer">';
-				myst += article[1];
-				myst += '</a></h2>\n'
-				myst += (article[2] + '<br>\n');
-				myst += (article[3] + ', Vol. ' + article[4] + ' (' + article[5] + '), ' + article[6] + '\n');
-				myst += '</div>\n'
-			}
-			document.getElementById("publications").innerHTML = myst;
-		
+		parseData = function () {
+
+			$.ajax({
+				url: 'data/publication_list.txt',
+				success: function (data) {
+
+					var info = data.split('\n\n');
+					var myst = '';
+
+					for (var i = 1; i < info.length; i++) {
+
+						var article = info[i].split('\n');
+
+						myst += '<div class="box">\n';
+
+						myst += '<h2 style="margin-bottom: 0.3em ! important;"><a href="';
+						myst += article[0];
+						myst += '" target="blank" rel="noopener noreferrer">';
+						myst += article[1];
+						myst += '</a></h2>\n';
+
+						myst += article[2] + '<br>\n';
+
+						// Build publication information
+						var publication = article[3];
+
+						if (article[4] && article[4].trim() !== '') {
+							var volume = article[4].trim();
+
+							// Add Vol. only if the field contains a volume number
+							if (!volume.match(/^\d{4}\/\d+$/)) {
+								publication += ', Vol. ' + volume;
+							} else {
+								publication += ', ' + volume;
+							}
+
+							if (article[5] && article[5].trim() !== '') {
+								publication += ' (' + article[5].trim() + ')';
+							}
+						}
+
+						if (article[6] && article[6].trim() !== '') {
+							publication += ', ' + article[6].trim();
+						}
+
+						myst += publication + '\n';
+
+						myst += '</div>\n';
+					}
+
+					document.getElementById("publications").innerHTML = myst;
+
+				}
+			});
 		}
-		});
-		}
+
 		document.addEventListener("DOMContentLoaded", parseData);
 	</script>
 </html>
