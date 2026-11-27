@@ -4,6 +4,24 @@
 # YEAR
 # LOCATION
 
+https://math.sufe.edu.cn/e2/7a/c20437a254586/page.htm
+Efficient Numerical Methods for PDEs
+December 23
+2025
+Shanghai University of Finance and Economics, Shanghai, China
+
+https://icosahom2025.org/
+The 15th International Conference on Spectral and High Order Methods
+July 14-18
+2025
+McGill University, Montréal, Canada
+
+https://iasevents.hkust.edu.hk/202412scrm/
+HKUST IAS-HKWM-EASIAM Joint Workshop on Recent Advances on Scientific Computing, Random Matrices and Data Science
+December 18-20
+2024
+HKUST, Hong Kong, China
+
 https://poems2024.inria.fr/
 POlytopal Element Methods in Mathematics and Engineering (POEMS 2024)
 December 3-6
